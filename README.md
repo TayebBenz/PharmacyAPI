@@ -9,6 +9,10 @@ This is a simple REST API designed for managing medicines in a small website. Th
 Endpoints
 
 
+
+
+
+
 1. Find Medicine by ID 
 
 Endpoint: /medicine/id/{id}
@@ -31,7 +35,11 @@ GET /medicine/id/123
 
 
 
-3. Find Medicine by Name
+
+
+
+
+2. Find Medicine by Name
 
 Endpoint: /medicine/name/{name}
 
@@ -54,7 +62,9 @@ GET /medicine/name/Paracetamol
 
 
 
-5. Add Medicine
+
+
+3. Add Medicine
 
 Endpoint: /medicine/add
 
@@ -92,7 +102,8 @@ POST /medicine/add
 
 
 
-6. Get All Medicines
+
+4. Get All Medicines
 
 Endpoint: /medicines
 
@@ -111,7 +122,8 @@ GET /medicines
 
 
 
-8. Search for Medicines
+
+5. Search for Medicines
 
 Endpoint: /medicine/search
 
