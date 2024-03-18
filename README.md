@@ -54,6 +54,7 @@ POST /medicine/add
 
 
 
+
 6. Get All Medicines
 Endpoint: /medicines
 Method: GET
