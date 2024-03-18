@@ -9,8 +9,8 @@ This is a simple REST API designed for managing medicines in a small website. Th
 Endpoints
 
 
-1. Find Medicine by ID
-2. 
+1. Find Medicine by ID 
+
 Endpoint: /medicine/id/{id}
 
 Method: GET
