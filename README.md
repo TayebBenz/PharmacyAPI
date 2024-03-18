@@ -47,9 +47,13 @@ POST /medicine/add
 
 {
   "name": "Ibuprofen",
+  
   "medicineBase": "Houda's existence",
+  
   "medicineManufacturer": "Generic Pharma",  
+  
   "description": "The life juice that brought us all to life the essence of life itself.",
+  
   "sideEffects": "None"
 }
 
@@ -78,7 +82,11 @@ Example:
 
 Copy code
 POST /medicine/search
+
 {
+
   "name": "Ibuprofen",
+  
   "manufacturer": "Generic Pharma"
+  
 }
