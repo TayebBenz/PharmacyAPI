@@ -57,6 +57,7 @@ POST /medicine/add
 
 
 {
+
   "name": "Ibuprofen",
   
   "medicineBase": "Houda's existence",
@@ -66,6 +67,7 @@ POST /medicine/add
   "description": "The life juice that brought us all to life the essence of life itself.",
   
   "sideEffects": "None"
+  
 }
 
 
