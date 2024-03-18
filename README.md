@@ -44,6 +44,7 @@ Example:
 
 Copy code
 POST /medicine/add
+
 {
   "name": "Ibuprofen",
   "medicineBase": "Houda's existence",
