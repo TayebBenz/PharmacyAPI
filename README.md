@@ -26,11 +26,13 @@ Example:
 
 
 Copy code
+
 GET /medicine/id/123
 
 
 
 3. Find Medicine by Name
+
 Endpoint: /medicine/name/{name}
 
 Method: GET
